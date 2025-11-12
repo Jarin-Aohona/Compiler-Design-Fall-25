@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1762934218 source:c:\users\student\desktop\c++ error checker\main.cpp
+	<iostream>
+	<fstream>
+
