@@ -73,7 +73,7 @@ bool readTxtFile(string filename) {
 }
 
 int main() {
-    string filename = "token.txt";
+    string filename = "sample.txt";
 
     if (readTxtFile(filename)) {
         cout << " Tokenization successfull"<<endl;
@@ -83,3 +83,4 @@ int main() {
 
     return 0;
 }
+
